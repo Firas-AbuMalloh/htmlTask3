@@ -1,0 +1,17 @@
+table{
+    border: 2px solid;
+}
+table tr th{
+    border: 1px solid;
+}
+
+table tr td{
+    border: 1px solid;
+}
+.messageBox{
+    width: 500px;
+    height: 250px;
+}
+video{
+    width: 650px;
+}
